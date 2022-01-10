@@ -1,0 +1,49 @@
+{
+    "coord":{
+        "lon":-74.0435,
+        "lat":40.8859
+        
+    },
+    "weather":[
+    {
+        "id":804,
+        "main":"Clouds",
+        "description":"overcast clouds",
+        "icon":"04n"
+        
+    }
+    ],
+    "base":"stations",
+    "main":{
+        "temp":27.18,
+        "feels_like":19.69,
+        "temp_min":24.42,
+        "temp_max":29.26,
+        "pressure":1018,
+        "humidity":49
+        
+    },
+    "visibility":10000,
+    "wind":{
+        "speed":7,
+        "deg":242,
+        "gust":13
+        
+    },
+    "clouds":{
+        "all":99
+        
+    },
+    "dt":1641851945,
+    "sys":{
+        "type":2,
+        "id":2005238,
+        "country":"US",
+        "sunrise":1641817205,
+        "sunset":1641851215
+    },
+    "timezone":-18000,
+    "id":5098706,
+    "name":"Hackensack",
+    "cod":200
+}
